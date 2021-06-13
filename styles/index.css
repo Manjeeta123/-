@@ -1,0 +1,130 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+}
+.header {
+  background-image: -webkit-linear-gradient(
+  75deg
+  , #fc0303 50%, #443939e3 50%);
+}
+
+.about {
+  color: white;
+  padding-top: 6%;
+  padding-right: 10%;
+  padding-left: 11%;
+
+}
+
+.pic{
+  margin-bottom: : 15%;
+  margin-left: 10%;
+  width: 100%;
+  height: 100%;
+ border-color:#443939e3 ;
+  border-style: solid;
+
+}
+
+
+hr {
+  margin-top: 10%;
+  border-style: outset;
+  width: 85%;
+}
+
+.education {
+  margin-top: 5%;
+}
+
+.edu-img {
+  margin-top: 3%;
+}
+
+.head-img {
+  color: #2e5cfbd4;
+  margin-right: 4%;
+}
+
+.skill {
+
+  padding: 1%;
+  text-align: right;
+  font-size: 20px;
+  border-radius: 15px;
+  border-right-style:  outset;
+
+  border-width: thin;
+}
+
+.html {
+  width: 80%;
+  height: 100%;
+  background-color: #22bbc5;
+}
+
+.css {
+  width: 79%;
+  height: 100%;
+  background-color: #f63ef6;
+}
+
+.bar {
+  background-color: #c0c0c04a;
+  width: 100%;
+  height: 90%;
+  border-radius: 15px;
+  border-width: 5px;;
+}
+
+.Express {
+  width: 60%;
+  height: 100%;
+  background-color: #5385e6;
+}
+
+.Nodejs {
+  width: 75%;
+  height: 100%;
+  background-color: #f9832ade;
+}
+
+.skill-row{
+  margin-top: 5%;
+  padding-left: 2%;
+
+}
+
+.Mongodb {
+  width: 50%;
+  height: 100%;
+  background-color: #22c57c;
+}
+
+.Javascript {
+  width: 75%;
+  height: 100%;
+  background-color: #d3244ac9;
+}
+
+.c {
+  width: 82%;
+  height: 100%;
+  background-color: #d3d124;
+}
+
+.cpp {
+  width: 80%;
+  height: 100%;
+  background-color: #d3248a;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  margin-top: 10%;
+  color:white;
+}
+
+.fa-facebook-square, .fa-linkedin{
+  color:white;
+}
